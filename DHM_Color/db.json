@@ -1,0 +1,256 @@
+{
+  "staffs": [],
+  "categorys": [
+    {
+      "id": "zd1xpuo0o",
+      "ten_danhmuc": "Dior",
+      "ngaytao": "22-10-2020 _ 16:48:14s",
+      "mota": "Thương hiệu thời trang"
+    },
+    {
+      "id": "1lw7ba3j6",
+      "ten_danhmuc": "Louis Vuitton",
+      "ngaytao": "22-10-2020 _ 16:48:17s",
+      "mota": "Thương hiệu thời trang"
+    },
+    {
+      "id": "35tun74r6",
+      "ten_danhmuc": "Chanel",
+      "ngaytao": "22-10-2020 _ 16:48:20s",
+      "mota": "Thương hiệu thời trang"
+    },
+    {
+      "id": "ph77wp6j5",
+      "ten_danhmuc": "Gucci",
+      "ngaytao": "22-10-2020 _ 16:48:23s",
+      "mota": "Thương hiệu thời trang"
+    },
+    {
+      "id": "ls3glqol6",
+      "ten_danhmuc": "Versace",
+      "ngaytao": "22-10-2020 _ 16:48:26s",
+      "mota": "Thương hiệu thời trang"
+    },
+    {
+      "id": "6nwkd5w6v",
+      "ten_danhmuc": "Dolce & Gabbana",
+      "ngaytao": "22-10-2020 _ 16:48:28s",
+      "mota": "Thương hiệu thời trang"
+    }
+  ],
+  "colors": [],
+  "sizes": [],
+  "posts": [
+    {
+      "id": "h4bwenihx",
+      "ten_baiviet": "Gianni Versace và đế chế Versace",
+      "image": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/imagesPost%2Fnha-thiet-ke-gianni-versace.jpg?alt=media&token=abf9030c-fef0-4ac6-8fb1-d28377b0f596",
+      "ngaydang": "6-11-2020 / 11:6:24s",
+      "noidung": "Gianni Versace ( sinh 2 tháng 12 năm 1946 ). Sinh ra và lớn lên ở Reggio Calabria trong một gia đình trung lưu tại Italy, Gianni Versace từ nhỏ đã đam mê thời trang. Bố ông là chủ một tiệm tạp hóa còn mẹ là thợ may.\nNgay từ nhỏ, Versace đã có hứng thú đặc biệt với vải vóc và… búp bê. Ông dành nhiều thời gian chơi búp bê cùng cô em gái Donatelle và tự tay dùng vải vụn của mẹ thải ra để may áo cho búp bê.Versace còn nhờ em gái sắm vai người mẫu để diện những bộ đồ do chính tay ông làm ra và để em tự do catwalk trong nhà. Khi đã lớn hơn một chút, Versace được mẹ tín nhiệm giao cho những nhiệm vụ như phối hợp các chất liệu để may váy, tìm tòi các cách trang trí, phụ kiện gồm các loại hạt, đá để đính lên áo, váy cho đẹp. Dù vậy, Versace chưa bao giờ có ý định hoạt động trong lĩnh vực thời trang một cách nghiêm túc.\n  \n \nCó năng khiếu thiên bẩm với thời trang nhưng mãi đến năm 26 tuổi, những khao khát cháy bỏng mới thôi thúc ông từ bỏ nghề kiến trúc để đến với Milan – Kinh đô thời trang thế giới.Năm 1978, sau nhiều năm làm cộng tác cho các hãng, Gianni Versace với sự giúp đỡ của gia đình ông mới có được thương hiệu của riêng mình. Cửa hàng đầu tiên của Versace được khai trương ở phố Via della Spiga tại Milano và ngay lập tức đã trở nên nổi tiếng.\n \nChịu nhiều ảnh hưởng của nhà hát kịch nghệ, ballet, kiến trúc, nghệ thuật cổ điển thời La Mã , Hy Lạp cổ đại và đương đại, Versace đã khiến giới thời trang khuynh đảo khi ông giới thiệu thiết kế lông vũ đen quyến rũ, gam màu chói sáng, họa tiết baroque rực rỡ phóng khoáng, chân váy bất đối xứng, những đường cắt xẻ táo bạo cùng chiếc váy bodycon huyền thoại. Được thúc đẩy bởi Donatella, Gianni Versace đã liều lĩnh dấn thân vào chốn phù hoa với tư tưởng giải phóng phụ nữ, hay cả đàn ông, từ những chuẩn mực trang phục lỗi thời và lạc hậu."
+    },
+    {
+      "id": "t450dgzoy",
+      "ten_baiviet": "Gucci – đẳng cấp của một thương hiệu mạnh ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/imagesPost%2F14928TomFord_1521188816.jpg?alt=media&token=ecf1c8a3-3b68-40a4-8117-285f1ae03ea3",
+      "ngaydang": "6-11-2020 / 11:7:11s",
+      "noidung": "Bí quyết thành công của Gucci chính là nét hài hòa qua sự kết hợp của các sản phẩm. Bằng nghệ thuật xử lý da điêu luyện cùng tính đồng bộ trong sáng tạo sản phẩm, Gucci đã chinh phục được các khách hàng khó tính nhất. Danh tiếng lẫy lừng của “đế chế” này có thể ví như đã bao trùm làng thời trang quốc tế và ngày càng trở nên vững mạnh hơn. Cái tên Gucci không chỉ gắn liền với sự thượng hạng và cũng đắt tiền, mà còn gợi nhớ đến những nốt thăng trầm trên chặng đường phát triển mang tính lịch sử của thương hiệu này.\nĐược sáng lập bởi Guccio Gucci (1881-1953) tại Florence (Ý), Gucci được xem là một trong những thương hiệu thời trang nổi tiếng và được yêu thích trên khắp thế giới. Năm 1906, Guccio Gucci mở một hiệu nhỏ bán yên ngựa và cung cấp thêm các loại túi da dành cho người cưỡi ngựa. Trong những năm 20 của thế kỷ XX, ông phát triển kinh doanh khá thành công nhờ vào chất lượng sản phẩm tốt. Năm 1938, ông mở cửa hàng thứ 2 tại Rome, rồi cửa hiệu thứ 3 tiếp tục ra đời tại Milan năm 1951. Ông mất năm 1953, chẳng bao lâu sau khi cửa hàng thứ 4 được mở tại Manhattan (Mỹ), để lại toàn bộ cơ nghiệp cho bốn người con trai là Aldo, Vasco, Ugo và Rodolfo.\n\nVào những năm 1960, Gucci đã tạo nên một cơn bão khi được xem là một nhà tạo mốt với các dòng sản phẩm cao cấp. Các ngôi sao ở Hollywood đã gọi tên Gucci đồng nghĩa với “chic”, có nghĩa là sang trọng, lịch sự.\nTrong một thời gian dài, thương hiệu này là biểu tượng của những nhân vật tên tuổi và nhiều ngôi sao điện ảnh lớn, điển hình là Jackie Onassis hay Elizabeth Taylor. Thiết kế giày da với chi tiết hàm thiếc ngựa một thời là điểm nổi bật của bộ sưu tập tại Viện Nghiên cứu Thời trang Metropolitan cũng như của Bảo tàng Nghệ thuật tại New York.\n\nNhờ có những khách hàng nổi tiếng, thương hiệu Gucci nhanh chóng đi vào hàng ngũ các nhà tạo mốt hàng đầu thế giới. Tiếc là từ khi cháu trai Maurizio của Guccio được trao nhiệm vụ điều hành doanh nghiệp (thập niên 1980) thì việc kinh doanh bắt đầu đi xuống. Những bước đi sai lầm gây bất đồng, thậm chí đã xảy ra xung đột nặng nề ngay trong cuộc họp của ban lãnh đạo công ty. Năm 1988, chính Maurizio phải bán cả sản nghiệp gia đình cho Tập đoàn Investcorp. Hiện tại, nhãn hiệu Gucci thuộc về Tập đoàn Kering của Pháp (thường được biết đến qua tên gọi PPR) do tỉ phú François Pinault sáng lập.\nPhong cách chuyển dời qua các thời kỳ\nKhông nhiều người biết rằng nhà tạo mốt hàng đầu xứ Florence đã từng bị dè bỉu bằng từ “lạc mốt”, đồng thời rơi vào tình trạng khủng hoảng nặng nề vào giữa thập niên 1990. Rất có thể Gucci đã trở thành một cái tên xưa cũ trong lịch sử thời trang thế giới nếu không có sự xuất hiện của Tom Ford. Bằng một phong cách quyến rũ và táo bạo, Tom Ford đã thổi luồng sinh khí mới, vực dậy thương hiệu thời trang đang bị tụt hậu. Mười năm sau khi đã tạo dựng nên một Gucci lừng lẫy, Tom Ford rời khỏi ngôi vị giám đốc sáng tạo và người thay thế là Frida Giannini – một nhà thiết kế phụ kiện danh tiếng.\nLịch sử đã được lặp lại. Đầu năm 2015, Frida Giannini lại chia tay vị trí giám đốc sáng tạo sau 13 năm gắn bó với Gucci, nhường chỗ cho Alessandro Michele – một gã ăn mặc kiểu nghệ sĩ và cũng là một thành viên của nhóm thiết kế làm việc dưới quyền của Frida từ năm 2002, chuyên phụ trách nhóm đồ da, giày, đồ trang sức và trang trí nội thất. Và chính Alessandro đã làm “thay da đổi thịt” hoàn toàn Gucci sau một thời gian dài mà những sáng tạo của Frida Giannini bị thờ ơ.\n\nAlessandro Michele đã khiến giới mộ điệu hết sức ngạc nhiên khi cho ra mắt bộ sưu tập dành cho nam giới trong mùa Thu-Đông 2015 theo một phong cách hoàn toàn mới. Không còn những chàng trai thanh lịch và đỏm dáng, mà thay vào đó là những cậu trai trẻ “mình hạc xương mai” với trang phục không thể nữ tính hơn. Đến khi thiết kế bộ sưu tập dành cho nữ, Alessandro lại tiếp tục tạo nên sự kinh ngạc khi ứng dụng thủ thuật Gender bender. Cô gái mới của Gucci không còn sexy hay hiện đại, mà trở thành quý cô geek-chic theo hơi hướng hoài cổ."
+    },
+    {
+      "id": "2zmizerhy",
+      "ten_baiviet": "Nguyen Sy Manh dep trai",
+      "image": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/imagesPost%2FIMG_0620.jpg?alt=media&token=b84d0b64-c388-4b8c-a0dc-8c38690578c7",
+      "ngaydang": "6-11-2020 / 11:7:28s",
+      "noidung": "ThinkView 2020"
+    },
+    {
+      "id": "kantl3y2h",
+      "ten_baiviet": "Option Apple",
+      "image": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/imagesPost%2FIMG_0613.jpg?alt=media&token=e5964fae-8cb5-43f7-90c7-c75df4697013",
+      "ngaydang": "6-11-2020 / 11:8:0s",
+      "noidung": "ThinkView 2020"
+    }
+  ],
+  "carts": [],
+  "products": [
+    {
+      "id": "kzw5082zv",
+      "ten_sp": "SIGNATURE-PINK",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "89",
+      "tinh_trang": "true",
+      "danhmuc_Id": "zd1xpuo0o",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F1.png?alt=media&token=e914f62c-a31f-4fbf-b967-3c8ce8e13a63",
+      "gia_nhap": "1000000",
+      "gia_ban": "2299000",
+      "nd_chitiet": "The pink polo shirt is made from cotton piqué and features a 'CD Icon' embroidery at the chest. Cut in a regular fit, it pairs well with jeans, joggers and cargos.",
+      "ngaytao": "22-10-2020 _ 16:48:44s",
+      "count": 1
+    },
+    {
+      "id": "wrdzustfx",
+      "ten_sp": "DIOR AND SHAWN OVERSIZED",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "zd1xpuo0o",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F8.png?alt=media&token=af837eec-15bc-4a74-ba23-8aad2d57218e",
+      "gia_nhap": "1500000",
+      "gia_ban": "2599000",
+      "nd_chitiet": "This graphic T-shirt gives the season’s LV Leaf motif a distinctive twist, using the traditional corrosion printing technique. Applied to a dark cotton base, it reproduces the design in a natural cotton color on both the inside and the outside of the piece. The result is a unique, high-definition version of the delicate floral design.",
+      "ngaytao": "22-10-2020 _ 16:49:46s",
+      "count": 1
+    },
+    {
+      "id": "vppj83yzz",
+      "ten_sp": "DIOR AND SHAWN POLO",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "false",
+      "danhmuc_Id": "zd1xpuo0o",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F9.png?alt=media&token=9ffaa1e4-544f-4405-a9b3-2c14175778f9",
+      "gia_nhap": "1200000",
+      "gia_ban": "2399000",
+      "nd_chitiet": "This graphic T-shirt gives the season’s LV Leaf motif a distinctive twist, using the traditional corrosion printing technique. Applied to a dark cotton base, it reproduces the design in a natural cotton color on both the inside and the outside of the piece. The result is a unique, high-definition version of the delicate floral design.",
+      "ngaytao": "22-10-2020 _ 16:50:5s",
+      "count": 1
+    },
+    {
+      "id": "vmidhparo",
+      "ten_sp": "CAMO REGULAR SILK SHIRT",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "1lw7ba3j6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F6.png?alt=media&token=8af06ecb-67b4-484e-851e-4c3c12f09fb3",
+      "gia_nhap": "2300000",
+      "gia_ban": "33990000",
+      "nd_chitiet": "This graphic T-shirt gives the season’s LV Leaf motif a distinctive twist, using the traditional corrosion printing technique. Applied to a dark cotton base, it reproduces the design in a natural cotton color on both the inside and the outside of the piece. The result is a unique, high-definition version of the delicate floral design.",
+      "ngaytao": "22-10-2020 _ 16:50:44s",
+      "count": 1
+    },
+    {
+      "id": "46w25zbuy",
+      "ten_sp": "LV LEAF DISCHARGE T-SHIRT",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "1lw7ba3j6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F5.png?alt=media&token=c059fa94-7ec5-4e4e-9d4e-c93a2ae820a8",
+      "gia_nhap": "1000000",
+      "gia_ban": "1899000",
+      "nd_chitiet": "This graphic T-shirt gives the season’s LV Leaf motif a distinctive twist, using the traditional corrosion printing technique. Applied to a dark cotton base, it reproduces the design in a natural cotton color on both the inside and the outside of the piece. The result is a unique, high-definition version of the delicate floral design.",
+      "ngaytao": "22-10-2020 _ 16:51:0s",
+      "count": 1
+    },
+    {
+      "id": "2zljcsh6b",
+      "ten_sp": "MIXED PRINT  POPLIN SHIRT",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "1lw7ba3j6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F3.png?alt=media&token=8873522a-fff3-4a16-9904-0925f47d7dbf",
+      "gia_nhap": "1200000",
+      "gia_ban": "2299000",
+      "nd_chitiet": "This graphic T-shirt gives the season’s LV Leaf motif a distinctive twist, using the traditional corrosion printing technique. Applied to a dark cotton base, it reproduces the design in a natural cotton color on both the inside and the outside of the piece. The result is a unique, high-definition version of the delicate floral design.",
+      "ngaytao": "22-10-2020 _ 16:53:16s",
+      "count": 1
+    },
+    {
+      "id": "b3imjol76",
+      "ten_sp": "ROSE INTARSIA AND MOHAIR",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "ls3glqol6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F2.png?alt=media&token=7c4f40af-2af4-4605-91cb-7a4db1c3d608",
+      "gia_nhap": "2000000",
+      "gia_ban": "3299000",
+      "nd_chitiet": "This graphic T-shirt gives the season’s LV Leaf motif a distinctive twist, using the traditional corrosion printing technique. Applied to a dark cotton base, it reproduces the design in a natural cotton color on both the inside and the outside of the piece. The result is a unique, high-definition version of the delicate floral design.",
+      "ngaytao": "22-10-2020 _ 16:53:44s",
+      "count": 1
+    },
+    {
+      "id": "g68fmt1qk",
+      "ten_sp": "DIOR AND SHAWN BLACK JERSEY",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "ls3glqol6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F7.png?alt=media&token=7f4fab03-5108-4748-8307-a6a5292ff659",
+      "gia_nhap": "1300000",
+      "gia_ban": "2399000",
+      "nd_chitiet": "Cut with a mock neck, the black heavy cotton T-shirt features a DIOR AND SHAWN bee embroidered on the chest and bead embroidery on the collar. Blending Dior heritage with Californian surfer style, it can be worn with jeans, cargo pants or shorts.\n",
+      "ngaytao": "22-10-2020 _ 16:54:8s",
+      "count": 1
+    },
+    {
+      "id": "lagv99cxh",
+      "ten_sp": "ROSE ACCENT WOOL SWEATER",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "ls3glqol6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F4.png?alt=media&token=25fd5bf4-f406-4316-a4c6-67220e20b745",
+      "gia_nhap": "3000000",
+      "gia_ban": "4199000",
+      "nd_chitiet": "Woven onto a knit wool sweater, the rose is a central theme that blooms throughout the collection embodying a uniform of bold color and statement pattern play",
+      "ngaytao": "22-10-2020 _ 16:54:28s",
+      "count": 1
+    },
+    {
+      "id": "p7bbtxntd",
+      "ten_sp": "CHRISTIAN DIOR ATELIER",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "ls3glqol6",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F12.png?alt=media&token=77ad942b-e986-45a0-bcc4-285d677b2d70",
+      "gia_nhap": "1200000",
+      "gia_ban": "2299000",
+      "nd_chitiet": "The white T-shirt pays tribute to the House's couturiers with the 'Christian Dior Atelier' signature. Crafted in cotton, it portrays a loose and oversized fit for a relaxed style. The T-shirt pairs well with jeans or sportswear pieces.",
+      "ngaytao": "22-10-2020 _ 16:54:52s",
+      "count": 1
+    },
+    {
+      "id": "gsv23xp4i",
+      "ten_sp": "PINK COTTON JERSEY",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "false",
+      "danhmuc_Id": "zd1xpuo0o",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F10.png?alt=media&token=e586b46a-8e4b-462a-9992-807ee53572ac",
+      "gia_nhap": "1200000",
+      "gia_ban": "2299000",
+      "nd_chitiet": "The pink T-shirt features a ribbed V-stitched neckline and the white DIOR AND SHAWN signature print on the chest. Garment-dyed with traces of white in an irregular pattern, each individual piece is unique. The T-shirt is made from thick-woven cotton and pairs well with both jeans and shorts.",
+      "ngaytao": "22-10-2020 _ 16:55:18s",
+      "count": 1
+    },
+    {
+      "id": "i3pwxvm8v",
+      "ten_sp": "DIOR OBLIQUE BEADED",
+      "nd_ngan": "Thiết kế trẻ trung, hiện đại, đơn giản",
+      "so_luong": "10",
+      "tinh_trang": "true",
+      "danhmuc_Id": "zd1xpuo0o",
+      "anh": "https://firebasestorage.googleapis.com/v0/b/manhnsph07598.appspot.com/o/images%2F11.png?alt=media&token=a32148e2-5a2c-4560-ba88-93ab3dfbc65d",
+      "gia_nhap": "1500000",
+      "gia_ban": "2599000",
+      "nd_chitiet": "The thick navy blue cotton T-shirt presents a new take on the emblematic Dior Oblique motif, created with a beaded effect. Cut with an oversized silhouette, the contrasting round ribbed collar presents a V-neck topstitching detail for a relaxed effect. Pair this refined style—featuring the season's flagship print—with jeans or track pants for an elevated look.",
+      "ngaytao": "22-10-2020 _ 16:56:8s",
+      "count": 1
+    }
+  ],
+  "orders": [],
+  "users": [
+    {
+      "id": "",
+      "hoten": "",
+      "email": "",
+      "tenTK": "",
+      "matkhau": "",
+      "trangthai ": "",
+      "ngaytao": ""
+    }
+  ]
+}
